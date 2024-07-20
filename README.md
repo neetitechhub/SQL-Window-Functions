@@ -1,6 +1,7 @@
 # SQL-Window-Functions
-SQL Window Functions use case on sales data
+**SQL Window Functions use case on sales data**
 
+Performing sql window functions operation on diffrent sql queries and getting expected result. below are the examples.
 
 1. RUNNING TOTAL OF SALES (CALCULATE THE RUNNING TOTAL OF SALES FOR EACH DAY)
 2. RANKING SALES BY DATE (RANK SALES WITHIN EACH DAY)
